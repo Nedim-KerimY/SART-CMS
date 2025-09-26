@@ -1,16 +1,14 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Libraries\E32-433T20D\E32-433T20D.LibPkg
-[Project2]
 ProjectPath=Libraries\L-KLS1-TF-003-H1.85-R\L-KLS1-TF-003-H1.85-R.LibPkg
-[Project3]
+[Project2]
 ProjectPath=Libraries\STM32F072C8T6\STM32F072C8T6.LibPkg
-[Project4]
+[Project3]
 ProjectPath=Libraries\TLV1117-33IDCYR\TLV1117-33IDCYR.LibPkg
-[Project5]
+[Project4]
 ProjectPath=PCB Project\SART CMS.PrjPcb
-[Project6]
+[Project5]
 ProjectPath=Libraries\Passives\Passives.LibPkg
-[Project7]
+[Project6]
 ProjectPath=Libraries\B3U-1000P\B3U-1000P.LibPkg
